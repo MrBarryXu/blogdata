@@ -8,7 +8,7 @@ titleTemplate: 撰写技术文章、知识和畅聊的地方
 hero:
   name: g~Nj$3J2^
   text: 撰写技术文章、知识和畅聊的地方
-  tagline: 以 NasKlog 为名，应当分为Nas-Klog，意为「NAS」「知识博客」的意思，主要的领域不限于NAS 、智能家居、技术知识等，即「网络知识博客」之意
+  tagline: 以 NasKlog 为名，应当分为Nas-Klog，意为「NAS」「知识博客」的意思，主要的领域不限于NAS 、智能家居、技术知识等，即「网络知识博客」之意。
   image:
     src: /logo.svg
     alt: Vitest
