@@ -1,11 +1,11 @@
 {
-  "name": "nolebase",
+  "name": "nasklog",
   "type": "module",
   "version": "1.0.0",
   "author": {
-    "name": "Nólëbase",
-    "email": "nolebase@ayaka.moe",
-    "url": "https://github.com/nolebase"
+    "name": "NasKlog",
+    "email": "text@nasklog.com",
+    "url": "https://www.nasklog.com/"
   },
   "license": "MIT",
   "keywords": [
